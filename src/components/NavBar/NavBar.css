@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    border-top: solid 20px green;
+    border-bottom: solid 1px #cacaca;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    font-size: 1.6rem;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+    
+}
+
+.imgAgricola {
+    width: 10rem;
+}
